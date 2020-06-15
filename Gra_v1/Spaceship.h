@@ -16,7 +16,8 @@ public:
 	//Spaceship(sf::RenderWindow&);
 	Spaceship();
 	~Spaceship()=default;
-	float Ss_x, Ss_y, life;
+	float Ss_x, Ss_y;
+	int life;
 	float Ss_speed;
 	float Ss_rotation;
 	sf::ConvexShape shape;

@@ -1,3 +1,6 @@
 ﻿  Źródło.cpp
 C:\Users\Tymek\Desktop\CPP projekty\Gra_v1\Gra_v1\Źródło.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Tymek\Desktop\CPP projekty\Gra_v1\Gra_v1\Źródło.cpp(67,25): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Tymek\Desktop\CPP projekty\Gra_v1\Gra_v1\Źródło.cpp(69,30): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Tymek\Desktop\CPP projekty\Gra_v1\Gra_v1\Źródło.cpp(22,6): warning C4101: "instruct": lokalna zmienna, do której nie istnieje odwołanie
   Gra_v1.vcxproj -> C:\Users\Tymek\Desktop\CPP projekty\Gra_v1\x64\Debug\Gra_v1.exe
